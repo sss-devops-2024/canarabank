@@ -1,0 +1,5 @@
+echo "Hello everyone"
+echo "This file related to the shellscript.."
+echo "iam sairaviteja "
+echo "Iam using the vim editor right now.."
+echo "Welcome to my shellscript "
